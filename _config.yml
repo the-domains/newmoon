@@ -1,0 +1,14 @@
+layout_spectrum: 0.8415651780087501
+typography_spectrum: 0.34038626844994724
+color:
+  brandStrength: 0.24339857301674783
+  lightness: 0.468436932656914
+  saturation: 0.8520283361431211
+  rhythmicContrast: 0.05421842634677887
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+name: NewMoon
